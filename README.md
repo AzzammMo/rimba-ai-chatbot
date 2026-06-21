@@ -1,6 +1,6 @@
 # 🌲 Rimba AI Chatbot
 
-Rimba AI Chatbot adalah chatbot berbasis Artificial Intelligence yang dirancang untuk membantu pendaki dan pecinta alam memperoleh informasi seputar pendakian gunung, perlengkapan outdoor, tips keselamatan, serta rekomendasi aktivitas alam secara interaktif menggunakan teknologi Google Gemini AI.
+Rimba AI Chatbot adalah chatbot berbasis yang dirancang untuk membantu pendaki dan pecinta alam memperoleh informasi seputar pendakian gunung, perlengkapan outdoor, tips keselamatan, serta rekomendasi aktivitas alam
 
 ## ✨ Features
 
@@ -16,7 +16,6 @@ Rimba AI Chatbot adalah chatbot berbasis Artificial Intelligence yang dirancang 
 - **Express.js** – Backend web framework
 - **Google Gemini API** – Generative AI model
 - **dotenv** – Environment variable management
-- **Git & GitHub** – Version control and repository management
 
 ## 🚀 Installation
 
